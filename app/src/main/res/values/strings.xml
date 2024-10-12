@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laba1</string>
+    <string name="login">Вход</string>
+    <string name="login_in">Войти</string>
+    <string name="next">Next</string>
+    <string name="welcome">Connect easily with your family and friends over countries</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="app_logo">login logo</string>
+</resources>
